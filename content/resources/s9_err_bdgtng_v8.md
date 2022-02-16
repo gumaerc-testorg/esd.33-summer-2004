@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Session #9 lecture presentation.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-33-systems-engineering-summer-2004/6111ad8d6ab6cf23dd0a76e5d8c8eb7b_s9_err_bdgtng_v8.pdf
+file: /media/courses/esd-33-systems-engineering-summer-2004/6111ad8d6ab6cf23dd0a76e5d8c8eb7b_s9_err_bdgtng_v8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: s9_err_bdgtng_v8.pdf
 uid: 6111ad8d-6ab6-cf23-dd0a-76e5d8c8eb7b
