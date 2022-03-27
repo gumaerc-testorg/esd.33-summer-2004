@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66d2ff32-70e2-68f2-0470-9fbea9d02b57
 resourcetype: Document
 title: asgn6_arpln_frm2.pdf
 uid: d063f897-eeb9-f339-1e7b-9eb8c64340da

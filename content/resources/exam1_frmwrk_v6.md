@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 567e9eef-777a-dbb5-709c-0335195f22c7
 resourcetype: Document
 title: exam1_frmwrk_v6.pdf
 uid: 4199d8e6-1773-0ea8-1cc7-d549f5963c57

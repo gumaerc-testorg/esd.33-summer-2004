@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25becf99-76ac-d2ec-7da8-f177ccaa23b9
 resourcetype: Document
 title: s9_err_bdgtng_v8.pdf
 uid: 6111ad8d-6ab6-cf23-dd0a-76e5d8c8eb7b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25becf99-76ac-d2ec-7da8-f177ccaa23b9
 resourcetype: Document
 title: s11_dwck_sprfnc2.pdf
 uid: d448a521-f7b1-5702-123c-ff8edd54d59d

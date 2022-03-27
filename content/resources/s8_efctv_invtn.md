@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25becf99-76ac-d2ec-7da8-f177ccaa23b9
 resourcetype: Document
 title: s8_efctv_invtn.pdf
 uid: 4ab81884-f461-adfc-b659-b04d7e62349e

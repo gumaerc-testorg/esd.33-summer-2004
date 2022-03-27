@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66d2ff32-70e2-68f2-0470-9fbea9d02b57
 resourcetype: Document
 title: asgn3_qfd.pdf
 uid: bcba2be2-8d04-bb35-23a3-22c4ff235774

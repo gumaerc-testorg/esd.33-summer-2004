@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25becf99-76ac-d2ec-7da8-f177ccaa23b9
 resourcetype: Document
 title: s6_qlty_fn_dply6.pdf
 uid: ef77ca1c-8a10-f6a9-096a-cd52c1213d48

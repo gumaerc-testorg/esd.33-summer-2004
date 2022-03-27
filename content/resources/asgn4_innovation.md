@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66d2ff32-70e2-68f2-0470-9fbea9d02b57
 resourcetype: Document
 title: asgn4_innovation.pdf
 uid: ff8c8073-3933-0aee-3e1c-858922a9ffe2

@@ -34,9 +34,9 @@ Homework 1: Learning ([PDF]({{< baseurl >}}/resources/asgn1_lrning_v2))
 Homework 2: Frameworks ([PDF]({{< baseurl >}}/resources/asgn2_frmwrksv2))
 {{< tdclose >}}
 {{< tdopen >}}
-probsim.m ([M](/courses/engineering-systems-division/esd-33-systems-engineering-summer-2004/assignments/probsim.m))  
+probsim.m ([M]({{< baseurl >}}/resources/probsim))  
   
-tip.m ([M](/courses/engineering-systems-division/esd-33-systems-engineering-summer-2004/assignments/tip.m))
+tip.m ([M]({{< baseurl >}}/resources/tip))
 {{< tdclose >}}
 
 {{< trclose >}}

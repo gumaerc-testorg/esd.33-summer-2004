@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 66d2ff32-70e2-68f2-0470-9fbea9d02b57
 resourcetype: Other
 title: asgn6_tgch_arpln.xls
 uid: 5b9c8e9d-c708-c8be-ea49-96d2f0223c6e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25becf99-76ac-d2ec-7da8-f177ccaa23b9
 resourcetype: Document
 title: s4_axomtc_dbd_v7.pdf
 uid: d10273bc-48e3-d198-7816-15c1a156f8d7

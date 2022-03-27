@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25becf99-76ac-d2ec-7da8-f177ccaa23b9
 resourcetype: Document
 title: s12_phy_bsd_mdg4.pdf
 uid: 30b7af5f-ef24-d798-5ed9-fb5f986a9aeb
