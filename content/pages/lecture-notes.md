@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 25becf99-76ac-d2ec-7da8-f177ccaa23b9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -31,7 +36,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Introduction; What is Systems Engineering? ([PDF]({{< baseurl >}}/resources/s1_cors_intro_v7))
+Course Introduction; What is Systems Engineering? ({{% resource_link ffd3dcda-0448-4037-250d-f1d65e2caef7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Course Introduction; What is Systems Engineering? ([PDF]({{< baseurl >}}/resourc
 2
 {{< tdclose >}}
 {{< tdopen >}}
-INCOSE Model of SE; RCI Model of SE ([PDF]({{< baseurl >}}/resources/s2_incos_mdl_v4))  
+INCOSE Model of SE; RCI Model of SE ({{% resource_link 9343cdb3-a26e-f552-a003-1cadc67108ea "PDF" %}})  
   
 RCI Systems Engineering Process
 {{< tdclose >}}
@@ -60,7 +65,7 @@ Lean Thinking; Set-Based Design
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Axiomatic Design; Decision-Based Design; Summary of Frameworks Phase ([PDF]({{< baseurl >}}/resources/s4_axomtc_dbd_v7))
+Axiomatic Design; Decision-Based Design; Summary of Frameworks Phase ({{% resource_link d10273bc-48e3-d198-7816-15c1a156f8d7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +89,7 @@ Exam 1
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Quality Function Deployment ([PDF]({{< baseurl >}}/resources/s6_qlty_fn_dply6))
+Quality Function Deployment ({{% resource_link ef77ca1c-8a10-f6a9-096a-cd52c1213d48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +98,7 @@ Quality Function Deployment ([PDF]({{< baseurl >}}/resources/s6_qlty_fn_dply6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Pugh Concept Selection; Controlled Convergence ([PDF]({{< baseurl >}}/resources/s7_pg_cnpt_slctn))
+Pugh Concept Selection; Controlled Convergence ({{% resource_link 9946d04e-866e-096b-918b-4a151df59656 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Pugh Concept Selection; Controlled Convergence ([PDF]({{< baseurl >}}/resources/
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Effective Innovation ([PDF]({{< baseurl >}}/resources/s8_efctv_invtn))
+Effective Innovation ({{% resource_link 4ab81884-f461-adfc-b659-b04d7e62349e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +116,7 @@ Effective Innovation ([PDF]({{< baseurl >}}/resources/s8_efctv_invtn))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Critical Parameter Management and Error Budgeting ([PDF]({{< baseurl >}}/resources/s9_err_bdgtng_v8))
+Critical Parameter Management and Error Budgeting ({{% resource_link 6111ad8d-6ab6-cf23-dd0a-76e5d8c8eb7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +125,7 @@ Critical Parameter Management and Error Budgeting ([PDF]({{< baseurl >}}/resourc
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Design of Experiments ([PDF]({{< baseurl >}}/resources/s10_dsgn_xprntv5))
+Design of Experiments ({{% resource_link 3438c6f7-1585-230e-a865-3d4512931620 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,9 +134,9 @@ Design of Experiments ([PDF]({{< baseurl >}}/resources/s10_dsgn_xprntv5))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Design of Experiments (cont.) ([PDF]({{< baseurl >}}/resources/s11_splmtry_sld3))  
+Design of Experiments (cont.) ({{% resource_link 02b8c363-41cb-8537-ebc6-cb11deaa7d7b "PDF" %}})  
   
-Isoperformance ([PDF - 2.1 MB]({{< baseurl >}}/resources/s11_dwck_sprfnc2)) (Courtesy of Olivier de Weck. Used with permission.)
+Isoperformance ({{% resource_link d448a521-f7b1-5702-123c-ff8edd54d59d "PDF - 2.1 MB" %}}) (Courtesy of Olivier de Weck. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +145,7 @@ Isoperformance ([PDF - 2.1 MB]({{< baseurl >}}/resources/s11_dwck_sprfnc2)) (Cou
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Physics Based Modeling ([PDF]({{< baseurl >}}/resources/s12_phy_bsd_mdg4))
+Physics Based Modeling ({{% resource_link 30b7af5f-ef24-d798-5ed9-fb5f986a9aeb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +154,7 @@ Physics Based Modeling ([PDF]({{< baseurl >}}/resources/s12_phy_bsd_mdg4))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Robust Design ([PDF]({{< baseurl >}}/resources/s13_rbst_dsgnv7))
+Robust Design ({{% resource_link 32da4c22-eaa2-c3b2-bf1e-6f80e4ce974e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +163,7 @@ Robust Design ([PDF]({{< baseurl >}}/resources/s13_rbst_dsgnv7))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Extreme Programming ([PDF]({{< baseurl >}}/resources/s14_xtrm_prgrmng))
+Extreme Programming ({{% resource_link 2d6a1d2b-3055-4c5e-7004-acff214fbd6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
