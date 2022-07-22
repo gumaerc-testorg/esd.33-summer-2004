@@ -5,6 +5,7 @@ file: /courses/esd-33-systems-engineering-summer-2004/5b9c8e9dc708c8beea4996d2f0
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Graphs and data associated with Assignment 6.
-

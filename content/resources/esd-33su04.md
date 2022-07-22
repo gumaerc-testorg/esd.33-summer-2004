@@ -13,6 +13,7 @@ image_metadata:
   image-alt: A pyramid chart with foundations on the bottom, integration in the middle,
     and leadership on the top.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-33su04.jpg
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 As shown above, this course is delivered as part of the SDM program, an integrated graduate program in System Design and Management. (Image courtesy of Daniel Frey.)
-

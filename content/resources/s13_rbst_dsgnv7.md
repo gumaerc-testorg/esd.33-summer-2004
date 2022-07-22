@@ -5,6 +5,7 @@ file: /courses/esd-33-systems-engineering-summer-2004/32da4c22eaa2c3b2bf1e6f80e4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Session #13 lecture presentation.
-

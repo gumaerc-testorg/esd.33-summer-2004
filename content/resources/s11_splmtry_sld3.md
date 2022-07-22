@@ -5,6 +5,7 @@ file: /courses/esd-33-systems-engineering-summer-2004/02b8c36341cb8537ebc6cb11de
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Session #11 lecture presentation. Supplementary material.
-

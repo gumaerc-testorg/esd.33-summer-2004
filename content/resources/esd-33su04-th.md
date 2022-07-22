@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A pyramid chart with foundations on the bottom, integration in the middle,
     and leadership on the top.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-33su04-th.jpg
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 New image Upload
-

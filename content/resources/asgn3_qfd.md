@@ -13,6 +13,7 @@ file: /courses/esd-33-systems-engineering-summer-2004/bcba2be28d04bb3523a322c4ff
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -29,4 +30,3 @@ Team project. This assignment is primarily aligned with the third objective of t
 most essential systems engineering tools" but it also helps to sharpen your ability to
 "judge the applicability of any proposed process, strategy, or methodology for systems
 engineering using the fundamental concepts from disciplines such as of probability..."
-

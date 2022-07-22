@@ -5,6 +5,7 @@ file: /courses/esd-33-systems-engineering-summer-2004/4199d8e617730ea81cc7d549f5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Exam instructions and problems.
-

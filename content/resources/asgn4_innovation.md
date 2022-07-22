@@ -8,6 +8,7 @@ file: /courses/esd-33-systems-engineering-summer-2004/ff8c807339330aee3e1c858922
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Team project. This assignment is primarily aligned with the objectives ? "apply the most essential
 systems engineering tools" and "gathering and using data..."
-
