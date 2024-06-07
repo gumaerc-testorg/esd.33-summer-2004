@@ -10,6 +10,7 @@ description: 'Team project. This assignment is primarily aligned with the third 
 
   engineering using the fundamental concepts from disciplines such as of probability..."'
 file: /courses/esd-33-systems-engineering-summer-2004/bcba2be28d04bb3523a322c4ff235774_asgn3_qfd.pdf
+file_size: 302311
 file_type: application/pdf
 learning_resource_types:
 - Assignments

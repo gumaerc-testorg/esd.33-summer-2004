@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Session #6 lecture presentation.'
 file: /courses/esd-33-systems-engineering-summer-2004/ef77ca1c8a10f6a9096acd52c1213d48_s6_qlty_fn_dply6.pdf
+file_size: 871431
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
