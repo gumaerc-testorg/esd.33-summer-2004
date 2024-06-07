@@ -2,6 +2,7 @@
 content_type: resource
 description: Graphs and data associated with Assignment 6.
 file: /courses/esd-33-systems-engineering-summer-2004/5b9c8e9dc708c8beea4996d2f0223c6e_asgn6_tgch_arpln.xls
+file_size: 121856
 file_type: application/msword
 learning_resource_types:
 - Assignments

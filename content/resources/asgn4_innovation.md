@@ -5,6 +5,7 @@ description: 'Team project. This assignment is primarily aligned with the object
 
   systems engineering tools" and "gathering and using data..."'
 file: /courses/esd-33-systems-engineering-summer-2004/ff8c807339330aee3e1c858922a9ffe2_asgn4_innovation.pdf
+file_size: 14370
 file_type: application/pdf
 learning_resource_types:
 - Assignments

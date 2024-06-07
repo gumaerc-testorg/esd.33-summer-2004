@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-33-systems-engineering-summer-2004/451f948cfa4f950cfe5e4c97b911448b_chp_sysengineer2.jpg
+file_size: 79805
 file_type: image/jpeg
 image_metadata:
   caption: ''

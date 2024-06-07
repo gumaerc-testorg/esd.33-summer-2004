@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Session #12 lecture presentation.'
 file: /courses/esd-33-systems-engineering-summer-2004/30b7af5fef24d7985ed9fb5f986a9aeb_s12_phy_bsd_mdg4.pdf
+file_size: 883263
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

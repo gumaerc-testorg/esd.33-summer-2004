@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Session #13 lecture presentation.'
 file: /courses/esd-33-systems-engineering-summer-2004/32da4c22eaa2c3b2bf1e6f80e4ce974e_s13_rbst_dsgnv7.pdf
+file_size: 432972
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
