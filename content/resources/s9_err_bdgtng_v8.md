@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Session #9 lecture presentation.'
 file: /courses/esd-33-systems-engineering-summer-2004/6111ad8d6ab6cf23dd0a76e5d8c8eb7b_s9_err_bdgtng_v8.pdf
+file_size: 510995
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

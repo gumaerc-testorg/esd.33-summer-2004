@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Session #2 lecture presentation.'
 file: /courses/esd-33-systems-engineering-summer-2004/9343cdb3a26ef552a0031cadc67108ea_s2_incos_mdl_v4.pdf
+file_size: 751566
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

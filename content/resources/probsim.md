@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting program file for Assignment 2.
 file: /courses/esd-33-systems-engineering-summer-2004/730420911ac91e24851a730a88044dbf_probsim.m
+file_size: 610
 file_type: text/plain
 learning_resource_types:
 - Assignments

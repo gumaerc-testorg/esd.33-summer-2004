@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Session #4 lecture presentation.'
 file: /courses/esd-33-systems-engineering-summer-2004/d10273bc48e3d198781615c1a156f8d7_s4_axomtc_dbd_v7.pdf
+file_size: 916145
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
