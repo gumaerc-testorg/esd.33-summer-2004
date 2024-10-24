@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/esd-33-systems-engineering-summer-2004/a8eaf0ac83ab100e6cf13f37434391e6_session2_rci.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/a8eaf0ac83ab100e6cf13f37434391e6_session2_rci.pdf
 file_size: 361957
 file_type: application/pdf
 learning_resource_types:
