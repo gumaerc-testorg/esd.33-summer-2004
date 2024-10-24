@@ -4,7 +4,7 @@ description: 'Writing assignment. This assignment is intended to initiate some t
   about the purpose of this
 
   course and the conditions we will have to create to reach our objectives.'
-file: /courses/esd-33-systems-engineering-summer-2004/b9286793b85f0a47a7a50cb78dd6f868_asgn1_lrning_v2.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/b9286793b85f0a47a7a50cb78dd6f868_asgn1_lrning_v2.pdf
 file_size: 27254
 file_type: application/pdf
 learning_resource_types:
