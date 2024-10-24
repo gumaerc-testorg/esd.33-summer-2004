@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Session #1 lecture presentation.'
-file: /courses/esd-33-systems-engineering-summer-2004/ffd3dcda04484037250df1d65e2caef7_s1_cors_intro_v7.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/ffd3dcda04484037250df1d65e2caef7_s1_cors_intro_v7.pdf
 file_size: 428766
 file_type: application/pdf
 learning_resource_types:
