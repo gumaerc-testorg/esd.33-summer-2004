@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Team project.
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/9a16659758c7db67b475210fa8e9886f_asgn6dsgn_xprmnt.pdf
+file: /courses/esd-33-systems-engineering-summer-2004/9a16659758c7db67b475210fa8e9886f_asgn6dsgn_xprmnt.pdf
 file_size: 80256
 file_type: application/pdf
 learning_resource_types:

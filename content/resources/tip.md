@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting program file for Assignment 2.
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/a02a0b0eb9ea7d0e1c52f07482ea1c18_tip.m
+file: /courses/esd-33-systems-engineering-summer-2004/a02a0b0eb9ea7d0e1c52f07482ea1c18_tip.m
 file_size: 1000
 file_type: text/plain
 learning_resource_types:

@@ -9,7 +9,7 @@ description: 'Team project. This assignment is primarily aligned with the third 
   "judge the applicability of any proposed process, strategy, or methodology for systems
 
   engineering using the fundamental concepts from disciplines such as of probability..."'
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/bcba2be28d04bb3523a322c4ff235774_asgn3_qfd.pdf
+file: /courses/esd-33-systems-engineering-summer-2004/bcba2be28d04bb3523a322c4ff235774_asgn3_qfd.pdf
 file_size: 302311
 file_type: application/pdf
 learning_resource_types:
