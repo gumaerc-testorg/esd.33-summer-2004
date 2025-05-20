@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Session #7 lecture presentation.'
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/9946d04e866e096b918b4a151df59656_s7_pg_cnpt_slctn.pdf
+file: /courses/esd-33-systems-engineering-summer-2004/9946d04e866e096b918b4a151df59656_s7_pg_cnpt_slctn.pdf
 file_size: 903517
 file_type: application/pdf
 learning_resource_types:

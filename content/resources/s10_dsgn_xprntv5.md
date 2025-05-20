@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Session #10 lecture presentation.'
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/3438c6f71585230ea8653d4512931620_s10_dsgn_xprntv5.pdf
+file: /courses/esd-33-systems-engineering-summer-2004/3438c6f71585230ea8653d4512931620_s10_dsgn_xprntv5.pdf
 file_size: 604402
 file_type: application/pdf
 learning_resource_types:
