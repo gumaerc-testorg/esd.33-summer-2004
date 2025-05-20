@@ -3,7 +3,7 @@ content_type: resource
 description: As shown above, this course is delivered as part of the SDM program,
   an integrated graduate program in System Design and Management. (Image courtesy
   of Daniel Frey.)
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/1f610c611c7ca0d51c9bb5d6b2dd90ae_esd-33su04.jpg
+file: /courses/esd-33-systems-engineering-summer-2004/1f610c611c7ca0d51c9bb5d6b2dd90ae_esd-33su04.jpg
 file_size: 66463
 file_type: image/jpeg
 image_metadata:

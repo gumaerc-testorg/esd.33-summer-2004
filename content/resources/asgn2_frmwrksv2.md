@@ -4,7 +4,7 @@ description: 'Team project. This assignment is primarily aligned with the first 
   objectives of the course ? the
 
   ability to plan the SE process and to judge the applicability of processes.'
-file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/f76c597b2224034a969b5882b32d74b2_asgn2_frmwrksv2.pdf
+file: /courses/esd-33-systems-engineering-summer-2004/f76c597b2224034a969b5882b32d74b2_asgn2_frmwrksv2.pdf
 file_size: 273835
 file_type: application/pdf
 learning_resource_types:
