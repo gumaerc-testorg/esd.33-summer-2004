@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Session #8 lecture presentation.'
-file: /courses/esd-33-systems-engineering-summer-2004/4ab81884f461adfcb659b04d7e62349e_s8_efctv_invtn.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/4ab81884f461adfcb659b04d7e62349e_s8_efctv_invtn.pdf
 file_size: 344745
 file_type: application/pdf
 learning_resource_types:

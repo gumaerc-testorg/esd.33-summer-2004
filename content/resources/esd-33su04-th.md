@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/esd-33-systems-engineering-summer-2004/eaf57d9a6863186510f978b30f4adc26_esd-33su04-th.jpg
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/eaf57d9a6863186510f978b30f4adc26_esd-33su04-th.jpg
 file_size: 7215
 file_type: image/jpeg
 image_metadata:
