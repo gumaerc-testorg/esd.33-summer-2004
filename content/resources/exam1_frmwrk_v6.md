@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam instructions and problems.
-file: /courses/esd-33-systems-engineering-summer-2004/4199d8e617730ea81cc7d549f5963c57_exam1_frmwrk_v6.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/4199d8e617730ea81cc7d549f5963c57_exam1_frmwrk_v6.pdf
 file_size: 39397
 file_type: application/pdf
 learning_resource_types:
