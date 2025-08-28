@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Exam instructions and problems.
-file: /courses/esd-33-systems-engineering-summer-2004/7c3d787dfc75343c2c977d6520f1a9ac_exam2_tools_v9.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/7c3d787dfc75343c2c977d6520f1a9ac_exam2_tools_v9.pdf
 file_size: 65307
 file_type: application/pdf
 learning_resource_types:

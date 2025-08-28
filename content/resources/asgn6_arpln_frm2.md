@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting material for Assignment 6.
-file: /courses/esd-33-systems-engineering-summer-2004/d063f897eeb9f3391e7b9eb8c64340da_asgn6_arpln_frm2.pdf
+file: /ol-ocw-studio-app/courses/esd-33-systems-engineering-summer-2004/d063f897eeb9f3391e7b9eb8c64340da_asgn6_arpln_frm2.pdf
 file_size: 38912
 file_type: application/pdf
 learning_resource_types:
